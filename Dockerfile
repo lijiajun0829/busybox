@@ -1,1 +1,1 @@
-FROM busybox:1.31.0-uclibc
+FROM chainguard/busybox:latest-glibc
